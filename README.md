@@ -11,6 +11,7 @@ This project aims to explore the student data using PostgreSQL to see if length 
 Results: International students who had been at the university the longest (10 years maximum in the data) scored highest on average for depression according to test results (Avg Score = 13). However, they scored lowest on the Social Connectedness Test (Avg Score = 32). Their acculturative stress scores also ranked in the second lowest position (SCS = 50).
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 11 45 30" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/a5b44fac-1e91-4b3d-9f08-d06e29cc4674">
+<blockquote>Result Table</blockquote>
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 34" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/c61ea7cb-ea28-4218-a49d-fe88e06b7c82">
 <blockquote>Figure 1: Relationship between length of stay and average depression score (Y-axis: Length of stay in years, X-axis: Total score on PHQ-9 depression test </blockquote>
