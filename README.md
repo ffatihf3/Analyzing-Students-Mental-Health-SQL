@@ -35,6 +35,8 @@ Then I connected to the PostgreSQL database and explored the tables and attribut
 
 Finnaly, this case study allowed me to practice applying my SQL knowledge and data analyst to analyze a real dataset and provide insights to address the research questions presented.
 
-[View Reference Paper](https://www.mdpi.com/2306-5729/4/3/124)
+[view the project source](https://www.datacamp.com/datalab/w/95e578f6-139e-4fdc-9dfd-8ae6a11f08fa)
 <br>
-[View Project](https://www.datacamp.com/datalab/w/95e578f6-139e-4fdc-9dfd-8ae6a11f08fa)
+[view the reference paper](https://www.mdpi.com/2306-5729/4/3/124)
+
+
