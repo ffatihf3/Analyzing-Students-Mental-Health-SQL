@@ -11,16 +11,21 @@ This project aims to explore the student data using PostgreSQL to see if length 
 Results: International students who had been at the university the longest (10 years maximum in the data) scored highest on average for depression according to test results (Avg Score = 13). However, they scored lowest on the Social Connectedness Test (Avg Score = 32). Their acculturative stress scores also ranked in the second lowest position (SCS = 50).
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 11 45 30" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/a5b44fac-1e91-4b3d-9f08-d06e29cc4674">
+<br>
 <blockquote>Result Table</blockquote>
 <br>
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 34" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/c61ea7cb-ea28-4218-a49d-fe88e06b7c82">
+<br>
 <blockquote>Figure 1: Relationship between length of stay and average depression score (Y-axis: Length of stay in years, X-axis: Total score on PHQ-9 depression test </blockquote>
 <br>
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 46" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/a48a681b-c2ea-4392-894e-70663955e35b">
+<br>
 <blockquote>Figure 2: Relationship between length of stay and social connectedness score (Y-axis: Length of stay in years, X-axis: Total score on SCS social connectedness test)</blockquote>
 <br>
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 52" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/c45b4b3e-9d51-47d4-8342-aa1986bd161e">
+<br>
 <blockquote>Figure 3: Relationship between length of stay and acculturative stress score (Y-axis: Length of stay in years, X-axis: Total score on ASISS acculturative stress test)</blockquote>
+<br>
 
 This analysis concludes that international students who stay the longest experience increasing depression over time. However, their ability to adapt improves as they gain more experience socializing with local students and communities and familiarizing themselves with the area after longer stays.
 
@@ -30,4 +35,5 @@ Then I connected to the PostgreSQL database and explored the tables and attribut
 
 Finnaly, this case study allowed me to practice applying my SQL knowledge and data analyst to analyze a real dataset and provide insights to address the research questions presented.
 
-[Reference](https://www.mdpi.com/2306-5729/4/3/124)
+[View Reference Paper](https://www.mdpi.com/2306-5729/4/3/124)
+[View Project](https://www.datacamp.com/datalab/w/95e578f6-139e-4fdc-9dfd-8ae6a11f08fa)
