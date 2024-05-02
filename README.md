@@ -13,14 +13,15 @@ Results: International students who had been at the university the longest (10 y
 <img width="1091" alt="Screen Shot 2024-05-02 at 11 45 30" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/a5b44fac-1e91-4b3d-9f08-d06e29cc4674">
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 34" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/c61ea7cb-ea28-4218-a49d-fe88e06b7c82">
->Figure 1: Relationship between length of stay and average depression score (Y-axis: Length of stay in years, X-axis: Total score on PHQ-9 depression test)
+<blockquote>Figure 1: Relationship between length of stay and average depression score (Y-axis: Length of stay in years, X-axis: Total score on PHQ-9 depression test </blockquote>
+
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 46" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/a48a681b-c2ea-4392-894e-70663955e35b">
->Figure 2: Relationship between length of stay and social connectedness score
-(Y-axis: Length of stay in years, X-axis: Total score on SCS social connectedness test)
+<blockquote>Figure 2: Relationship between length of stay and social connectedness score (Y-axis: Length of stay in years, X-axis: Total score on SCS social connectedness test)</blockquote>
+
 
 <img width="1091" alt="Screen Shot 2024-05-02 at 12 00 52" src="https://github.com/ffatihf3/Analyzing-Students-Mental-Health-SQL/assets/69224750/c45b4b3e-9d51-47d4-8342-aa1986bd161e">
->Figure 3: Relationship between length of stay and acculturative stress score (Y-axis: Length of stay in years, X-axis: Total score on ASISS acculturative stress test)
+<blockquote>Figure 3: Relationship between length of stay and acculturative stress score (Y-axis: Length of stay in years, X-axis: Total score on ASISS acculturative stress test)</blockquote>
 
 This analysis concludes that international students who stay the longest experience increasing depression over time. However, their ability to adapt improves as they gain more experience socializing with local students and communities and familiarizing themselves with the area after longer stays.
 
